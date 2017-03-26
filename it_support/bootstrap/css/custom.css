@@ -1,0 +1,17 @@
+h2{
+	font-family:algerian;
+	color:darkblue;
+}
+h3{
+	font-family:Comic Sans MS;
+}
+.navbar{
+	border-radius:0px;
+}
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+  height: 100%;
+  width:auto;
+}
